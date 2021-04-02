@@ -30,11 +30,11 @@ Instructions for use:
 
 ``
 
-  wire installation
-  wire server
-  beginning of the thread
+  yarn install
+  yarn server
+  yarn start
  
-``
+```
 
 I know that Redux is a technology that can be replaced by more modern technologies such as API Context and many others, however, the market still uses this type of library (Redux), in addition to being very useful and performance in situations with complex global states. since it allows a granularization of the state.
 
