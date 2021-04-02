@@ -36,7 +36,7 @@ Instructions for use:
  
 ``
 
-I know that Redux is a technology that can be replaced by more modern technologies such as API Context and many others, however, the market still uses this type of library (Redux), in addition to being very useful and performance in situations with complex global states. since it allows a granularization of the state
+I know that Redux is a technology that can be replaced by more modern technologies such as API Context and many others, however, the market still uses this type of library (Redux), in addition to being very useful and performance in situations with complex global states. since it allows a granularization of the state.
 
 This was a project carried out during the classes taught at https://github.com/Rocketseat.
 
@@ -82,7 +82,7 @@ Instruções de usos:
  
 ```
 
-Sei que Redux é uma tecnologia que pode ser substituida por tecnologias mais modernas como API Context e muitas outras, no entanto, o mercado ainda utiliza esse tipo de biblioteca (Redux), além de ser bastante útil e performático em situações com estados globais complexas uma vez que permite a granularização do estado
+Sei que Redux é uma tecnologia que pode ser substituida por tecnologias mais modernas como API Context e muitas outras, no entanto, o mercado ainda utiliza esse tipo de biblioteca (Redux), além de ser bastante útil e performático em situações com estados globais complexas uma vez que permite a granularização do estado.
 
 Este foi um projeto realizado durante as aulas ministradas em https://github.com/Rocketseat.
 
