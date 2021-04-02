@@ -87,6 +87,3 @@ Sei que Redux é uma tecnologia que pode ser substituida por tecnologias mais mo
 Este foi um projeto realizado durante as aulas ministradas em https://github.com/Rocketseat.
 
 
-
-t
-
