@@ -16,15 +16,15 @@ I found this publication interesting since this structure, in addition to being 
 
 The Redux folder structure (Flux architecture):
 
-* modules -------------------- each global state is a module
+* modules: each global state is a module
     * cart
-        * actions ------------ as actions that the reducer will hear
-        * reducer -------- listens to actions and manipulates the global state, also sets the initial state of the global
-        * sagas ---------- define which action should be performed after another, that is, the middleware, in this case functions with asynchronous requests (Redux Saga)
-        * types ---------- typing the state of this module and the action
-    * rootReducers --- join (combine) the module states in the global
-    * rootSaga ------- configure Redux Saga middleware
-* index -------------- define global state, apply middleware
+        * actions: as actions that the reducer will hear
+        * reducer: listens to actions and manipulates the global state, also sets the initial state of the global
+        * sagas: define which action should be performed after another, that is, the middleware, in this case functions with asynchronous requests (Redux Saga)
+        * types: typing the state of this module and the action
+    * rootReducers: join (combine) the module states in the global
+    * rootSaga: configure Redux Saga middleware
+* index: define global state, apply middleware
 
 Instructions for use:
 
@@ -39,9 +39,6 @@ Instructions for use:
 I know that Redux is a technology that can be replaced by more modern technologies such as API Context and many others, however, the market still uses this type of library (Redux), in addition to being very useful and performance in situations with complex global states. since it allows a granularization of the state
 
 This was a project carried out during the classes taught at https://github.com/Rocketseat.
-
-
-
 
 ***
 
@@ -65,15 +62,15 @@ Achei interessante essa publicação visto que essa estrutura, além de organiza
 
 A estrutura de pastas do Redux (arquitetura Flux):
 
-* modules--------------------cada estado global é um modulo
+* modules: cada estado global é um modulo
     * cart
-        * actions------------as ações que o reducer ouvirá
-        * reducer--------fica ouvindo ações e manipulando estado globais, também seta o estado inicial do global
-        * sagas----------define qual ação deve ser executada após uma outra, isto é, os middlewares, nesse caso funções com requisições assíncronas (Redux Saga)
-        * types----------tipagem do estado desse modulo e da action
-    * rootReducers---junta(combina) os estados do modulo no global
-    * rootSaga-------configura o middlewares do Redux Saga
-* index--------------define estado global, aplica middlewares
+        * actions: as ações que o reducer ouvirá
+        * reducer: fica ouvindo ações e manipulando estado globais, também seta o estado inicial do global
+        * sagas: define qual ação deve ser executada após uma outra, isto é, os middlewares, nesse caso funções com requisições assíncronas (Redux Saga)
+        * types: ipagem do estado desse modulo e da action
+    * rootReducers: junta(combina) os estados do modulo no global
+    * rootSaga: configura o middlewares do Redux Saga
+* index: define estado global, aplica middlewares
 
 Instruções de usos:
 
