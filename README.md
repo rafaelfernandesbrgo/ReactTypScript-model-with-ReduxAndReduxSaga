@@ -28,7 +28,7 @@ The Redux folder structure (Flux architecture):
 
 Instructions for use:
 
-``
+```
 
   yarn install
   yarn server
